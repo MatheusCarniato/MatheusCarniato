@@ -1,4 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCarniato&show_icons=true&theme=dracula)
+<div aling="center">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCarniato&show_icons=true&theme=dracula"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCarniato&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### Habilidades:
 <div style="display: inline_block"><br>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
