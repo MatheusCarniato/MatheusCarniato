@@ -3,8 +3,8 @@
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCarniato&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Habilidades:
-<div style="display: inline_block"><br>
+<div align="center"><br>
+  <h3>Habilidades</h3>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -13,11 +13,8 @@
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
-
-##
-
-### Contatos:
 <br>
-<div>
+<div align="center">
+  <h3>Contatos</h3>
   <a href="https://www.linkedin.com/in/matheus-c-a2aa82271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
